@@ -1,0 +1,6 @@
+[submodule "jemalloc"]
+	path = jemalloc
+	url = https://github.com/securesystemslab/pkru-safe-jemalloc.git
+[submodule "allocator"]
+	path = allocator
+	url = https://github.com/securesystemslab/pkru-safe-allocator-helper.git
